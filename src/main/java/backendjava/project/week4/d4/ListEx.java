@@ -20,5 +20,9 @@ public class ListEx {
         arr[0] = 1;
         arr[0] = 0; // 다시 0으로 초기화
 //        arr[0] = null; // 이건 불가능
+        System.out.println("-----------");
+        for(var item : l1) {
+//            System.out.println(item.split());
+        }
     }
 }
